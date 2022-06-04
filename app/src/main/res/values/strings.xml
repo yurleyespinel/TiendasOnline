@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TiendasOnline</string>
+    <string name="user">Digite usuario</string>
+    <string name="password">Digite la clave</string>
+    <string name="text_olvido_clave">Olvidó su contraseña?</string>
+    <string name="text_recupere">Recupere su contraseña</string>
+    <string name="text_no_usuario">No tiene usuario?</string>
+    <string name="text_creelo">Creelo aquí</string>
+    <string name="mensaje_registro">Registrar</string>
+    <string name="mensaje_sesion">Iniciar</string>
+    <string name="txt_tiendas">Tiendas</string>
+    <string name="txt_favoritas">Favoritas</string>
+    <string name="txt_miperfil">Mi perfil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_nombre_tienda">Chiquitienda</string>
+    <string name="txt_descripcion">Precios bajos, calidad grande</string>
+    <string name="txt_descripcion_secundaria">Lunes a viernes 8:00am - 6:00pm</string>
+    <string name="txt_boton1">Teléfono</string>
+    <string name="txt_boton2">Dirección</string>
+</resources>

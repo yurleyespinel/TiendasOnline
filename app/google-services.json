@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119286540158",
+    "project_id": "tiendasonline-b4e28",
+    "storage_bucket": "tiendasonline-b4e28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119286540158:android:ab56fe2d60715bae8ab52f",
+        "android_client_info": {
+          "package_name": "co.edu.ufps.tiendasOnline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119286540158-4cv928v0q1tnb8mlecq5q38ghqgngka6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWC0LmSHdVhXgk-kHyOoeBc8wqVeqTzBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119286540158-4cv928v0q1tnb8mlecq5q38ghqgngka6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
